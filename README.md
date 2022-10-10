@@ -10,7 +10,7 @@ I'm a Software Engineer passionate about sharing knowledge, documentation, and a
 - 🌱 I’m currently learning JavaScript, Rust, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing tegakaide@gmail.com.
+- 📫 Contact me by emailing tegakaide@gmail.com.
 
 ---
 
